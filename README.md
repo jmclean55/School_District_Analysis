@@ -5,3 +5,4 @@
 
 
 ## Results
+### When the Thomas High School's performances are adjusted, the percentage passing math is on the low end of the spectrum, while the % of students passing reading is the lowest of any of the schools in the district.  
